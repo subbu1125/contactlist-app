@@ -1,0 +1,9 @@
+{
+  "name":"contactlist",
+  "version":"0.0.0",
+  "description":"contactlist",
+  "author" : "subbu",
+  "express":"*",
+  "mongojs":"*"
+
+}
